@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calobite</string>
+    <string name="title_home">Home</string>
+    <string name="title_food">Food</string>
+    <string name="title_analyze">Analyze</string>
+    <string name="title_profile">Profile</string>
+    <string name="splash_screen">Calculate your food</string>
+    <string name="news_today">News Today</string>
+    <string name="rating">Rating</string>
+    <string name="login">Sign In</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Fill in your data correctly</string>
+    <string name="title_login_page">Sign In</string>
+    <string name="email">Email</string>
+    <string name="title_SignUp_page">Sign Up</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="kamera">Kamera</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="favorite">Favorite</string>
+    <string name="title">Recipe Name</string>
+    <string name="descrpition">Description</string>
+    <string name="prepare_time">Prepare Time</string>
+    <string name="waktu_persiapan">waktu persiapan</string>
+    <string name="cook_time">Cook Time</string>
+    <string name="waktu_memasak">Waktu Memasak</string>
+    <string name="total_time">Total Time</string>
+    <string name="waktu_keseluruhan">Waktu Keseluruhan</string>
+    <string name="servings">Servings</string>
+    <string name="banyaknya_servings">banyaknya Servings</string>
+    <string name="ingredients">Ingredients</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="logout">Logout</string>
+    <string name="already_have_account_login">Already have an account? Login</string>
+    <string name="rincian_ingredients">rincian ingredients</string>
+    <string name="directions">Directions (Langkah Kerja)</string>
+    <string name="urutan_langkah">urutan langkah</string>
+    <string name="nutrition_informasi_gizi">Nutrition (Informasi Gizi)</string>
+    <string name="i_dont_have_account">Dont have Account?Sign Up</string>
+</resources>
